@@ -1,3 +1,3 @@
-import './styles/main.css';
+import dropDownMe from '@carlosfrontend/dropdownme';
 
-console.log('Hello Starter Template!');
+dropDownMe();
